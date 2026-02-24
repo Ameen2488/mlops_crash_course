@@ -1,0 +1,16 @@
+# Private keys
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
