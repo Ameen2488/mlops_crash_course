@@ -14,3 +14,4 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+sentiment_analysis_project/data/features/train_bow.csv
